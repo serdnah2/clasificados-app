@@ -1,5 +1,4 @@
-const authAPIURL =
-  "http://ec2-18-220-72-102.us-east-2.compute.amazonaws.com:4001/api/auth/";
+const authAPIURL = "https://clasificados-app.herokuapp.com/api/auth/";
 
 /**
  * Method to check the user credentials are valid

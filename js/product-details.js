@@ -1,5 +1,4 @@
-const getProductAPIURL =
-  "http://ec2-18-220-72-102.us-east-2.compute.amazonaws.com:4001/api/search";
+const getProductAPIURL = "https://clasificados-app.herokuapp.com/api/search";
 
 /**
  * Retrieve the product data
