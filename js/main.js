@@ -1,8 +1,6 @@
 var userData = {};
-const categoriesAPIURL =
-  "http://ec2-18-220-72-102.us-east-2.compute.amazonaws.com:4001/api/categories";
-const locationsAPIURL =
-  "http://ec2-18-220-72-102.us-east-2.compute.amazonaws.com:4001/api/locations";
+const categoriesAPIURL = "https://clasificados-app.herokuapp.com/api/categories";
+const locationsAPIURL = "https://clasificados-app.herokuapp.com/api/locations";
 
 /**
  * Add listeners for the logout button and custom selects

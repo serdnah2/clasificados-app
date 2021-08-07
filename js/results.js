@@ -1,7 +1,5 @@
-const filterAPIURL =
-  "http://ec2-18-220-72-102.us-east-2.compute.amazonaws.com:4001/api/search/filter";
-  const filterMeAPIURL =
-  "http://ec2-18-220-72-102.us-east-2.compute.amazonaws.com:4001/api/search/me";
+const filterAPIURL = "https://clasificados-app.herokuapp.com/api/search/filter";
+const filterMeAPIURL = "https://clasificados-app.herokuapp.com/api/search/me";
 
 /**
  * Get the query params and get the products with filters

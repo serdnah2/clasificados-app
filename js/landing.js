@@ -1,5 +1,4 @@
-const latestAPIURL =
-  "http://ec2-18-220-72-102.us-east-2.compute.amazonaws.com:4001/api/search/latest/5";
+const latestAPIURL = "https://clasificados-app.herokuapp.com/api/search/latest/5";
 
 /**
  * Method to get the latest publications
