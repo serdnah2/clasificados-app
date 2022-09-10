@@ -1,4 +1,4 @@
-const authAPIURL = "https://clasificados-app.herokuapp.com/api/auth/";
+const authAPIURL =  "https://clasificados-app-backend.uc.r.appspot.com";
 
 /**
  * Method to check the user credentials are valid
