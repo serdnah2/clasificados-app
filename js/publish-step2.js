@@ -4,7 +4,7 @@ const facebookId = document.querySelector("#facebookId");
 const instagramId = document.querySelector("#instagramId");
 const twitterId = document.querySelector("#twitterId");
 const secondStepForm = document.querySelector(".second-step-form");
-const createServiceAPIURL = "https://clasificados-app.herokuapp.com/api/services";
+const createServiceAPIURL = "https://clasificados-app.herokuapp.com/api/services/";
 let step1Data = {};
 
 /**

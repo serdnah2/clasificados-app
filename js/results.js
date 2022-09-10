@@ -1,5 +1,5 @@
 const filterAPIURL = "https://clasificados-app.herokuapp.com/api/search/filter";
-const filterMeAPIURL = "https://clasificados-app.herokuapp.com/api/search/me";
+  const filterMeAPIURL = "https://clasificados-app.herokuapp.com/api/search/me";
 
 /**
  * Get the query params and get the products with filters
